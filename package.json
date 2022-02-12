@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/tyanesouza.lwc-olamundo",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve FIbotwZ4UnhZAd6izKzf --open"
+  }
+}
